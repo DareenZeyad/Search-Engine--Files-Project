@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<CategoryTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Categories>
+    <category>
+      <CatName>Food</CatName>
+      <Keywords>
+        <Keyword>Pizza</Keyword>
+        <Keyword>Pizza Hut</Keyword>
+        <Keyword>City Crepe</Keyword>
+      </Keywords>
+    </category>
+    <category>
+      <CatName>Zportz</CatName>
+      <Keywords>
+        <Keyword>Football</Keyword>
+        <Keyword>Basketball</Keyword>
+        <Keyword>zwimmin'</Keyword>
+      </Keywords>
+    </category>
+  </Categories>
+</CategoryTable>

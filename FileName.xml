@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<FileTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <File>
+      <FileName>testing.txt</FileName>
+      <Path>C:\\Users\\darin\\OneDrive\\Desktop\\Testing for files project\\Testing for files project\\bin\\Debug</Path>
+    </File>
+    <File>
+      <FileName>testing1.txt</FileName>
+      <Path>C:\\Users\\darin\\OneDrive\\Desktop\\Testing for files project\\Testing for files project\\bin\\Debug</Path>
+    </File>
+    <File>
+      <FileName>testing2.txt</FileName>
+      <Path>C:\\Users\\darin\\OneDrive\\Desktop\\Testing for files project\\Testing for files project\\bin\\Debug</Path>
+    </File>
+    <File>
+      <FileName>book 1.txt</FileName>
+      <Path>E:\\File Project</Path>
+    </File>
+  </Files>
+</FileTable>
